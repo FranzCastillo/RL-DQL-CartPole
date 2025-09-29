@@ -1,0 +1,5 @@
+gymnasium
+torch
+matplotlib
+numpy
+gymnasium[classic-control]>=0.29.0
